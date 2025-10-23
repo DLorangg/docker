@@ -1,0 +1,4 @@
+runpod
+supabase
+requests
+openai-whisper
